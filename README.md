@@ -55,7 +55,9 @@ Refer to [CONTRIBUTING.md](https://github.com/harsh183/lambdaQ/CONTRIBUTING.md)
 
 MIT License
 
-Copyright (c) 2019 Harsh Deep, Prerana Kiran, Nicholas Husin
+Copyright (c) 2019 Abhinav Tripathy
+
+Original Comtributors: Harsh Deep, Prerana Kiran, Nicholas Husin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
